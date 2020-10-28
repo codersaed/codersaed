@@ -7,10 +7,12 @@
 - ⚡ I never miss a trick 
 
 
-### Connect With Me:
+## Connect With Me:
 
 [![Medium](https://img.shields.io/badge/social--badge?style=social&label=Medium&logo=medium)](https://medium.com/@prog_abu23)
+
 [![Gmail URL](https://img.shields.io/badge/social--badge?style=social&label=email&logo=gmail)](mailto:prog.abu23@gmail.com)
+
 [![Linkedin URL](https://img.shields.io/badge/social--badge?style=social&label=linkedin&logo=linkedin)](https://www.linkedin.com/in/progabu23/)
 
 <br />
