@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Web Development
 - ❤ Javascript Lover
-- 📫 How to reach me: prog.abu23@gmail.com
+- 📫 How to reach me: codersaed@gmail.com
 - ⚡ I never miss a trick 
 
 
