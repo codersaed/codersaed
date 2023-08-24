@@ -1,4 +1,4 @@
-### Hi there I'm Abu Saed, a Web developer, and programmer. 👋
+### Hi there I'm Abu Saed, a Frontend Web Developer And UI UX Designer. 👋
 
 
 - 🌱 I’m currently learning Web Development
@@ -15,10 +15,6 @@
 
 <br />
 
-<img width="550px" alt="Abu Saed's Github Stats"  src="https://github-readme-stats.vercel.app/api?username=codersaed&show_icons=true"/>
-</br>
-
-[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=codersaed&card_width=550)](https://github.com/codersaed/codersaed)
 
 
 
