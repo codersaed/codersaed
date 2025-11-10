@@ -65,5 +65,3 @@
   <a href="https://www.linkedin.com/in/abusaedx/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" /></a>
 </p>
 
-# Push code
-git push -u origin main
