@@ -1,10 +1,9 @@
 <h1 align="center">👋 Hi, I'm Abu Saed</h1>
 
 <p align="center">
-  <b>Frontend Web Developer & UI/UX Designer</b> <br />
-  Currently becoming a <b>Full Stack Python Developer</b> with <b>Django</b> 🚀
+  <b>Software Developer | Web Engineer | Python/Django & Frontend/UI Specialist</b> <br />
+  Currently running projects with <b>Python & Django</b> 🚀
 </p>
-
 ---
 
 ### 🌱 About Me
