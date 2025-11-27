@@ -5,6 +5,8 @@
   Currently running projects with <b>Python & Django</b> 🚀
 </p>
 
+
+
 ### 🌱 About Me
 - Passionate about **clean UI**, **smooth UX**, and scalable architecture  
 - Skilled in **React.js**, **Next.js**, **Vue.js** (Frontend)  
