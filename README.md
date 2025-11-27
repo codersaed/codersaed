@@ -7,9 +7,9 @@
 ---
 
 ### 🌱 About Me
-- Passionate about **clean UI** and **intuitive UX**  
+- Passionate about **clean UI**, **smooth UX**, and scalable architecture  
 - Skilled in **React.js**, **Next.js**, **Vue.js** (Frontend)  
-- Learning **Python & Django** to master **Full Stack Development**  
+- Actively working on Full Stack projects combining **Python Django REST API + modern frontend** 
 - Fun fact: *I never miss a trick* 😉  
 - Completed **200+ successful projects**  
 - Published **40+ approved products** on major marketplaces  
